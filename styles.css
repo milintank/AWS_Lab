@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #d8f3dc;
+}
+
+header {
+    background-color: #40916c;
+    color: white;
+    padding: 15px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    margin: 30px;
+    padding: 20px;
+}
+
+.ride {
+    display: inline-block;
+    margin: 10px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
